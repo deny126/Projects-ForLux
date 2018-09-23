@@ -1,6 +1,5 @@
 # Projects-ForLux
-A .net core mvc project and angular project. To practice taghelpers,middlewares, npm configurations,session management
-
+An angular 6 project. Using wepApi from RN repository
 Database
 install Northwind
 
