@@ -1,5 +1,5 @@
 # Projects-ForLux
-An angular 6 project. Using wepApi from RN repository
+An angular project. Using wepApi from RN repository
 Database
 install Northwind
 
